@@ -333,5 +333,9 @@
   {
     "title": "git rev-list --count master",
     "description": "count the number of commits on a branch"
+  },
+  {
+    "title": "git status",
+    "description": "Lists all new or modified files to be committed"
   }
 ]
